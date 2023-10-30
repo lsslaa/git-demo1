@@ -10,3 +10,4 @@ hello atguigu! hello git!
 222222222
 hot-fix:aaa
 hot-fix2:2222
+push to github use ssh
